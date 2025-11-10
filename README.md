@@ -62,7 +62,8 @@ Generate a macro shot, photorealistic image of a Monarch-like butterfly with vib
 
 # AI Generated Image:
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a9866549-654f-4b49-a94f-43e2eacee77c" />
- # Comparison
+# Comparison:
+
  The AI-generated image demonstrates Exceptional Fidelity to the prompt. It precisely captured the Monarch-like coloration, the macro-photorealistic style, and the shallow depth of field (bokeh), reproducing the specific color scheme and the sharp detail on the butterfly and flower against the soft, blurred background. It faithfully replicated the high-resolution nature photography aesthetic.
 
 # Original Image:
@@ -75,4 +76,8 @@ The overall mood is peaceful, evocative, and warm, highlighting the stark contra
 
 # AI Generated Image:
 ![WhatsApp Image 2025-11-10 at 11 46 13_670579ea](https://github.com/user-attachments/assets/65ad3ade-789d-45f2-bc5c-b8d9e9aaf766)
+
+# Comparison:
+
+The AI-generated image demonstrates Exceptional Fidelity to the prompt. It perfectly captured the intense orange and golden sunset colors, the distinct sun, and the silhouetted boats with figures on the reflective water. The photorealistic style and serene, warm mood were faithfully reproduced, making it a near-perfect realization of the detailed visual description.
 
