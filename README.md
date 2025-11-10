@@ -43,16 +43,14 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 2.	The Final Generated Image: The image created using your refined prompt.
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
-
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
-
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
 # Original Image :
 <img width="276" height="183" alt="image" src="https://github.com/user-attachments/assets/8cf94b17-73a3-4999-9af0-3de85443ed4b" />
+
 # Prompt:
 Generate a macro shot, photorealistic image of a Monarch-like butterfly with vibrant orange, deep black, and crisp white patterns on its wings. The butterfly is perched on a single bright orange and yellow flower with a dense yellow center, viewed from a slight side angle. The lighting is soft, natural daylight. The background is extremely blurred (shallow depth of field) with soft bokeh effects, showing muted green, blue, and faint orange colors, emphasizing the butterfly and flower. Highly detailed, high resolution.
-
 # AI Generated Image:
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a9866549-654f-4b49-a94f-43e2eacee77c" />
 
