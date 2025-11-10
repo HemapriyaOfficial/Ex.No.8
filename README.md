@@ -47,12 +47,9 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
-
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
-
 # Original Image :
 <img width="276" height="183" alt="image" src="https://github.com/user-attachments/assets/8cf94b17-73a3-4999-9af0-3de85443ed4b" />
-
 # Prompt:
 Generate a macro shot, photorealistic image of a Monarch-like butterfly with vibrant orange, deep black, and crisp white patterns on its wings. The butterfly is perched on a single bright orange and yellow flower with a dense yellow center, viewed from a slight side angle. The lighting is soft, natural daylight. The background is extremely blurred (shallow depth of field) with soft bokeh effects, showing muted green, blue, and faint orange colors, emphasizing the butterfly and flower. Highly detailed, high resolution.
 
@@ -64,7 +61,6 @@ The AI-generated image demonstrates Exceptional Fidelity to the prompt. It preci
 
 # Original Image:
 ![WhatsApp Image 2025-11-10 at 11 45 54_1af8516b](https://github.com/user-attachments/assets/add4be93-70bb-4789-8a74-b527d721c5b4)
-
 # Prompt:
 Generate a  photorealistic image capturing the serene ambiance of a sunset over a wide body of water, likely a river or large lake. The sky is dominated by a vibrant gradient of intense orange and golden yellow, with a prominent bright white sun positioned centrally near the top. The horizon features a silhouetted distant treeline or landmass rendered in dark, muted tones, partially obscured by a slight atmospheric haze.
 The foreground is filled with the glowing, rippling surface of the water, reflecting the fiery colors of the sky in shimmering streaks of orange and yellow. Two traditional, flat-bottomed boats, rendered in dark silhouette, float on the water. The boat in the foreground contains approximately four to five silhouetted figures, with one person actively rowing or punting, their oar visible. The second boat, further back, contains three to four silhouetted figures, also with one person handling an oar.
@@ -75,4 +71,5 @@ The overall mood is peaceful, evocative, and warm, highlighting the stark contra
 
 # Comparison:
 The AI-generated image demonstrates Exceptional Fidelity to the prompt. It perfectly captured the intense orange and golden sunset colors, the distinct sun, and the silhouetted boats with figures on the reflective water. The photorealistic style and serene, warm mood were faithfully reproduced, making it a near-perfect realization of the detailed visual description.
-
+# Result:
+Thus the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts was demonstrated successfully.
