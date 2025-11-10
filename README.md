@@ -1,7 +1,7 @@
-## Exp 8: Reproducing an Image Using Prompts for Image Generation
+![WhatsApp Image 2025-11-10 at 11 44 29_9572f823](https://github.com/user-attachments/assets/7e6091b1-3775-4e2f-9975-2b3b53b5b334)## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+
+# Reg. No. 212223040066
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -53,3 +53,22 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+# Original Image :
+![WhatsApp Image 2025-11-10 at 11 44 49_8fe4967e](https://github.com/user-attachments/assets/134dcc46-acc3-4aa0-afdf-39ea40b35270)
+
+# Prompt:
+
+# AI Generated Image:
+![WhatsApp Image 2025-11-10 at 11 44 29_9572f823](https://github.com/user-attachments/assets/bda8f880-4d84-44b0-9780-4490e3f00c5e)
+
+# Original Image:
+![WhatsApp Image 2025-11-10 at 11 45 54_1af8516b](https://github.com/user-attachments/assets/add4be93-70bb-4789-8a74-b527d721c5b4)
+
+# Prompt:
+Generate a  photorealistic image capturing the serene ambiance of a sunset over a wide body of water, likely a river or large lake. The sky is dominated by a vibrant gradient of intense orange and golden yellow, with a prominent bright white sun positioned centrally near the top. The horizon features a silhouetted distant treeline or landmass rendered in dark, muted tones, partially obscured by a slight atmospheric haze.
+The foreground is filled with the glowing, rippling surface of the water, reflecting the fiery colors of the sky in shimmering streaks of orange and yellow. Two traditional, flat-bottomed boats, rendered in dark silhouette, float on the water. The boat in the foreground contains approximately four to five silhouetted figures, with one person actively rowing or punting, their oar visible. The second boat, further back, contains three to four silhouetted figures, also with one person handling an oar.
+The overall mood is peaceful, evocative, and warm, highlighting the stark contrast between the bright, warm sky and water, and the dark, defined silhouettes of the boats and their passengers. The scene is bathed in the soft, horizontal light of the setting sun, creating long reflections on the water.
+
+# AI Generated Image:
+![WhatsApp Image 2025-11-10 at 11 46 13_670579ea](https://github.com/user-attachments/assets/65ad3ade-789d-45f2-bc5c-b8d9e9aaf766)
+
