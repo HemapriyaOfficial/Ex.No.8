@@ -1,11 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
-
-
 # Reg. No. 212223040066
-
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
-
 ## Procedure:
 1.	Analyze the Given Image:
 ○	Examine the image carefully, noting key elements such as:
@@ -78,6 +74,5 @@ The overall mood is peaceful, evocative, and warm, highlighting the stark contra
 ![WhatsApp Image 2025-11-10 at 11 46 13_670579ea](https://github.com/user-attachments/assets/65ad3ade-789d-45f2-bc5c-b8d9e9aaf766)
 
 # Comparison:
-
 The AI-generated image demonstrates Exceptional Fidelity to the prompt. It perfectly captured the intense orange and golden sunset colors, the distinct sun, and the silhouetted boats with figures on the reflective water. The photorealistic style and serene, warm mood were faithfully reproduced, making it a near-perfect realization of the detailed visual description.
 
