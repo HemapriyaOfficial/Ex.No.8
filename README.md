@@ -55,12 +55,14 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
 
 # Original Image :
-![WhatsApp Image 2025-11-10 at 11 44 49_8fe4967e](https://github.com/user-attachments/assets/134dcc46-acc3-4aa0-afdf-39ea40b35270)
+<img width="276" height="183" alt="image" src="https://github.com/user-attachments/assets/8cf94b17-73a3-4999-9af0-3de85443ed4b" />
 
 # Prompt:
+Generate a macro shot, photorealistic image of a Monarch-like butterfly with vibrant orange, deep black, and crisp white patterns on its wings. The butterfly is perched on a single bright orange and yellow flower with a dense yellow center, viewed from a slight side angle. The lighting is soft, natural daylight. The background is extremely blurred (shallow depth of field) with soft bokeh effects, showing muted green, blue, and faint orange colors, emphasizing the butterfly and flower. Highly detailed, high resolution.
 
 # AI Generated Image:
-![WhatsApp Image 2025-11-10 at 11 44 29_9572f823](https://github.com/user-attachments/assets/bda8f880-4d84-44b0-9780-4490e3f00c5e)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a9866549-654f-4b49-a94f-43e2eacee77c" />
+
 
 # Original Image:
 ![WhatsApp Image 2025-11-10 at 11 45 54_1af8516b](https://github.com/user-attachments/assets/add4be93-70bb-4789-8a74-b527d721c5b4)
