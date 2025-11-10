@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-11-10 at 11 44 29_9572f823](https://github.com/user-attachments/assets/7e6091b1-3775-4e2f-9975-2b3b53b5b334)## Exp 8: Reproducing an Image Using Prompts for Image Generation
+## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
 
 # Reg. No. 212223040066
@@ -53,6 +53,7 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+
 # Original Image :
 ![WhatsApp Image 2025-11-10 at 11 44 49_8fe4967e](https://github.com/user-attachments/assets/134dcc46-acc3-4aa0-afdf-39ea40b35270)
 
